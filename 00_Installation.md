@@ -25,6 +25,7 @@ Bei der Installation über die executable Datei, sind folgende Schritte im Insta
 16. Installation abschließen
 
     Hier die Bildanleitung:
+    
 ![WhatsApp Bild 2024-05-02 um 14 11 54_6f20f7c5](https://github.com/BowCraftGHG/git_md/assets/168099471/894d83af-e8a5-4914-b350-74f878c8b3e8)
 ![WhatsApp Bild 2024-05-02 um 14 12 46_d1bb5da1](https://github.com/BowCraftGHG/git_md/assets/168099471/bb10b190-3c1f-4f30-8221-99a88f179157)
 ![WhatsApp Bild 2024-05-02 um 14 12 51_f6ec8a30](https://github.com/BowCraftGHG/git_md/assets/168099471/40b30f58-46ee-45c0-a16c-d1ad712e3c85)
