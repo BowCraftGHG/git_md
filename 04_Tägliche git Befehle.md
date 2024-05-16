@@ -85,7 +85,7 @@ git log
 Es werden alle Commits aufgelistet
 
 ```bash
-git log ---oneline
+git log --oneline
 ```
 
 Kurze und knappe anzeige in einer Zeile pro commit
