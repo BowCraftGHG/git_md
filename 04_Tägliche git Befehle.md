@@ -9,7 +9,7 @@ Das Gegenteil zu diesem Befehl ist git reset \<Datei>
 # Zwischenstand im localen Repo speichern
 
 ```bash
-git commit --a --m 'Text'
+git commit -a -m 'Text'
 ```
 
 Optionen:  
